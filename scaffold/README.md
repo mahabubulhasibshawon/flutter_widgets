@@ -1,5 +1,3 @@
-Here's a sample README file for a Flutter project focusing on the `Scaffold` widget:
-
 ---
 
 # Scaffold Widget in Flutter
