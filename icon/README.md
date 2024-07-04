@@ -1,5 +1,3 @@
-Here's a sample README file for a Flutter project focusing on the `Icons` widget:
-
 ---
 
 # Icons Widget in Flutter
@@ -95,8 +93,8 @@ class MyApp extends StatelessWidget {
 
 ## Screenshots
 
-![App Screenshot](screenshots/screenshot1.png)
-![Icons Screenshot](screenshots/screenshot2.png)
+![icon](https://github.com/mahabubulhasibshawon/DartPractice/assets/96023468/536e2b67-2c17-44ad-ad35-ef0a15aea774)
+
 
 ## Key Points
 
@@ -114,5 +112,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README file according to your specific project details and preferences.
